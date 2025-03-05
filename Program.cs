@@ -71,3 +71,5 @@ foreach (var student in f10orderd)
 //TODO: LINQ-t átvenni
 //TODO: keressem meg a C#os dictionary jegyzetemet...
 //TODO: mutassak nekik rendező algoritmust
+
+//ASDASD
